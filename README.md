@@ -5,3 +5,6 @@ Based on the books:
 
 * Natural Language Processing with Python, by Steven Bird, Ewan Klein, and Edward Loper.
 
+Online courses (LinkedIn):
+
+* NLP with Python for Machine Learning Essential Training, by Derek Jedamski.
