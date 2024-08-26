@@ -7,5 +7,5 @@ Based on the books:
 
 Online courses (LinkedIn):
 
-* NLP with Python for Machine Learning Essential Training, by Derek Jedamski.
+* NLP with Python for Machine Learning Essential Training, by Derek Jedamski;
 * Advanced NLP with Python for Machine Learning, by Derek Jedamski.
