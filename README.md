@@ -13,5 +13,4 @@ NLP Essential Courses (LinkedIn):
 
 Supportive Courses (LinkedIn):
 
-* Python Statistics Essential Training, by Matt Harrison;
 * Training Neural Networks in Python, by Eduardo Corpeño.
