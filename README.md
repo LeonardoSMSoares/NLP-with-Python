@@ -1,10 +1,12 @@
 # NLP-with-Python
+
 A collection of references for Natural Language Processing with Python.
 
 Based on the books:
 
 * Natural Language Processing with Python, by Steven Bird, Ewan Klein, and Edward Loper;
-* Learn AI with Python, by Gaurav Leekha.
+* Learn AI with Python, by Gaurav Leekha;
+* Hands‑On Entity Resolution: A Practical Guide to Data Matching with Python, by Michael Shearer.
 
 NLP Essential Courses (LinkedIn):
 
